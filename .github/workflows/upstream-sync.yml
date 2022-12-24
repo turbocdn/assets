@@ -1,5 +1,5 @@
 # .github/workflows/example.yml
- 
+  
 name: Merge upstream branches
 on:
   schedule:
