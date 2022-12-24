@@ -1,6 +1,6 @@
 name: Sync Upstream
 
-env:
+env: 
   # Required, URL to upstream (fork base)
   UPSTREAM_URL: "https://github.com/SamirPaulb/assets.git"
   # Required, token to authenticate bot, could use ${{ secrets.GITHUB_TOKEN }} 
